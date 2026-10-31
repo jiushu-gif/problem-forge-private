@@ -1,0 +1,41 @@
+type: default
+checker_type: default
+time: 2s
+memory: 256m
+cases:
+  - input: sample01.in
+    output: sample01.ans
+  - input: sample02.in
+    output: sample02.ans
+  - input: case01.in
+    output: case01.ans
+  - input: case02.in
+    output: case02.ans
+  - input: case03.in
+    output: case03.ans
+  - input: case04.in
+    output: case04.ans
+  - input: case05.in
+    output: case05.ans
+  - input: case06.in
+    output: case06.ans
+  - input: case07.in
+    output: case07.ans
+  - input: case08.in
+    output: case08.ans
+  - input: case09.in
+    output: case09.ans
+  - input: case10.in
+    output: case10.ans
+  - input: case11.in
+    output: case11.ans
+  - input: case12.in
+    output: case12.ans
+  - input: case13.in
+    output: case13.ans
+  - input: case14.in
+    output: case14.ans
+  - input: case15.in
+    output: case15.ans
+  - input: case16.in
+    output: case16.ans
